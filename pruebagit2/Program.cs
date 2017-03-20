@@ -11,6 +11,7 @@ namespace pruebagit2
         static void Main(string[] args)
         {
             Console.WriteLine("hol mundo");
+            Console.WriteLine("hola");
         }
     }
 }
